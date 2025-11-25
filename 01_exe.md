@@ -39,6 +39,11 @@ You'll need to understand binary and decimal conversion to calculate subnets cor
 - `/25` = `255.255.255.128` = 128 addresses per subnet
 - `/30` = `255.255.255.252` = 4 addresses (2 usable, for router links)
 
+**Cable Types**
+Cable	Use Case
+Copper Straight-Through	Different devices (PC to Switch)
+Copper Cross-Over	Similar devices (PC to PC)
+
 **Need a deeper dive?** Check out this [subnetting reference guide](https://www.aelius.com/njh/subnet_sheet.html).
 
 ---
